@@ -2,7 +2,7 @@
 
 🔸 Web Engineer <br />
 🔸 Hobby：web development, watching movies <br />
-🔸 Focus：LLM, Generative AI, AI Agents <br />
-🔸 Traits：positive mindset, highly curious, good at dieting <br />
+🔸 Focus：Next.js, TypeScript, AI(LLM / Generative AI / AI Agents), Interaction / Animation, UI / UX <br />
+🔸 Traits：positive mindset, highly curious, self motivation, persistence, good at dieting <br />
 
 Here's my [portfolio site](https://aoyamadev.com).
